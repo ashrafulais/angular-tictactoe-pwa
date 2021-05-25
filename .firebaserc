@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tictactoe-ash": {
+      "hosting": {
+        "tictactoe": [
+          "tictactoe-ash"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tictactoe-ash"
+  }
+}
